@@ -1,6 +1,6 @@
 [theme]
-primaryColor="#F63366"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#262730"
-font="sans serif"
+primaryColor = "#eab32a"          # Rowen gold
+backgroundColor = "#f8f9fa"       # Light sidebar
+secondaryBackgroundColor = "#ffffff"
+textColor = "#15325b"             # Rowen navy
+font = "sans serif"
